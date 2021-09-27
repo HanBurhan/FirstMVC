@@ -1,0 +1,12 @@
+C:\Users\İrfan\Source\Repos\FirstMVC\EntityLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\İrfan\Source\Repos\FirstMVC\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\İrfan\Source\Repos\FirstMVC\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\İrfan\Source\Repos\FirstMVC\EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\İrfan\Source\Repos\FirstMVC\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\İrfan\Source\Repos\FirstMVC\EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\İrfan\Source\Repos\FirstMVC\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\İrfan\Source\Repos\FirstMVC\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\İrfan\Source\Repos\FirstMVC\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\İrfan\Source\Repos\FirstMVC\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
+C:\Users\İrfan\Source\Repos\FirstMVC\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\İrfan\Source\Repos\FirstMVC\EntityLayer\obj\Debug\EntityLayer.pdb
