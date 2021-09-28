@@ -16,3 +16,5 @@ C:\Users\İrfan\Source\Repos\FirstMVC\BusinessLayer\obj\Debug\BusinessLayer.cspr
 C:\Users\İrfan\Source\Repos\FirstMVC\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
 C:\Users\İrfan\Source\Repos\FirstMVC\BusinessLayer\obj\Debug\BusinessLayer.dll
 C:\Users\İrfan\Source\Repos\FirstMVC\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\İrfan\Source\Repos\FirstMVC\BusinessLayer\bin\Debug\FluentValidation.dll
+C:\Users\İrfan\Source\Repos\FirstMVC\BusinessLayer\bin\Debug\FluentValidation.xml

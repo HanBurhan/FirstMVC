@@ -90,3 +90,5 @@ C:\Users\İrfan\Source\Repos\FirstMVC\FirstMVC\obj\Debug\FirstMVC.csproj.CoreCom
 C:\Users\İrfan\Source\Repos\FirstMVC\FirstMVC\obj\Debug\FirstMVC.csproj.CopyComplete
 C:\Users\İrfan\Source\Repos\FirstMVC\FirstMVC\obj\Debug\FirstMVC.dll
 C:\Users\İrfan\Source\Repos\FirstMVC\FirstMVC\obj\Debug\FirstMVC.pdb
+C:\Users\İrfan\Source\Repos\FirstMVC\FirstMVC\bin\FluentValidation.dll
+C:\Users\İrfan\Source\Repos\FirstMVC\FirstMVC\bin\FluentValidation.xml
